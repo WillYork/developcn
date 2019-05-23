@@ -2,7 +2,12 @@
 //The word “hi” appears multiple times. Find the first and last occurrence of the word hi and log them to the console.
 
 let jibberish = "jrfndklhgfndjkjlkgperfijfhidknsadcvjhiiohjfkledsopiuhgtyujwsdxcvhgfdjhiopiwquhiejkdsoiufghedjwsh";
-let indexOfFirst = jibberish.indexOf("hi")
-let indexOfLast = jibberish.lastIndexOf("hi")
+let indexOfFirst = jibberish.indexOf("hi");
 
-console.log(`The first occurance of the word 'hi' appears at index ${indexOfFirst}. The last occurance appears at index ${indexOfLast}.`)
+for (i=0)
+
+console.log(`The first occurance of the word 'hi' appears at index ${indexOfFirst}. The last occurance appears at index ${indexOfLast}.`);
+
+
+let num = 371072875339021027987979982208375902465101357402504637693767749000971264812489697007805041701826053874324986199524741059474233309513058123726617309629919422133635741615725224305633018110724061549082502306758820753934617117198031042104751377806324667689261670696623633820136378418383684177343617267572811287981284997940806548193159262169127588983273844274228917432520321923589422876796487670272189318474514457360013064390911672168568445887116031532767038648610584302543993961982891759366568675793495162176457141856560629502157223196586755079324193331.
+
