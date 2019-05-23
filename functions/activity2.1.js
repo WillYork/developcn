@@ -10,7 +10,7 @@ const checkPin = (pinNumber) => {
         console.log("You have entered the incorrect PIN. Please take your card.")
     }
 }
-
+let f = "foo"
 const cashOrBalance = (choice) => {
     if (pin === true && choice == "cash") {
         console.log("Please enter how much you would like to withdraw")
