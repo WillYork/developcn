@@ -4,9 +4,10 @@ let jibberish = "jrfndklhgfndjkjlkgperfijfhidknsadcvjhiiohjfkledsopiuhgtyujwsdxc
 let indexOfFirst = jibberish.indexOf("hi")
 let counter = 0
 
+let searchForHi = jibberish.matchAll("hi")
  
 
 
 
 
-console.log(indexOfFirst)
+console.log(searchForHi)
